@@ -2,27 +2,20 @@
 
 # Games Development
 
-## Game Developer Videos
 
-### Header 3
+### Game Developer Videos
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+- [Horizon Zero Dawn - A Game Design Post-Mortem](http://www.gdcvault.com/play/1024963/-Horizon-Zero-Dawn-A)
 
-[Link](url) and ![Image](src)
-```
+- [Monster Hunter World Post-mortem - Concept Design through Prototyping and Iteration](http://www.gdcvault.com/play/1024981/-Monster-Hunter-World-Postmortem)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Nier Automata - Design and Freedom](https://www.gdcvault.com/play/1024894/A-Fun-Time-in-Which)
 
-### Jekyll Themes
+- [Warframe Documentary (Part One) - The Story of Digital Extremes ](https://www.youtube.com/watch?v=UOE6528pwFc)
+- [Warframe Documentary (Part Two) - The Story of Warframe ](https://www.youtube.com/watch?v=NA5vT1LooXk)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rusac/games/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Zelda - Change and Constant: Breaking Conventions with 'The Legend of Zelda: Breath of the Wild'](http://www.gdcvault.com/play/1024562/Change-and-Constant-Breaking-Conventions)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
