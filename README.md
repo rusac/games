@@ -9,7 +9,7 @@
 
 - [Horizon Zero Dawn - A Game Design Post-Mortem](http://www.gdcvault.com/play/1024963/-Horizon-Zero-Dawn-A)
 
-
+![ZeroDawn](https://octodex.github.com/images/yaktocat.png)
 
 - [Monster Hunter World Post-mortem - Concept Design through Prototyping and Iteration](http://www.gdcvault.com/play/1024981/-Monster-Hunter-World-Postmortem)
 
