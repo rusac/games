@@ -8,6 +8,7 @@
 
 
 - [Horizon Zero Dawn - A Game Design Post-Mortem](http://www.gdcvault.com/play/1024963/-Horizon-Zero-Dawn-A)
+- [Horizon Zero Dawn Documentary - Noclip](https://www.youtube.com/watch?v=h9tLcD1r-6w)
 
 <img src="https://github.com/rusac/games/blob/master/Horizon_Zero_Dawn.jpg" width="200">
 
