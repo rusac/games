@@ -28,3 +28,6 @@
 - [Zelda - Change and Constant: Breaking Conventions with 'The Legend of Zelda: Breath of the Wild'](http://www.gdcvault.com/play/1024562/Change-and-Constant-Breaking-Conventions)
 
 <img src="https://github.com/rusac/games/blob/master/The_Legend_of_Zelda_Breath_of_the_Wild.jpg" width="200">
+
+![[File:https://github.com/rusac/games/blob/master/Horizon_Zero_Dawn.jpg|frame|width=250px|alt=Alt text|Caption text]]
+
