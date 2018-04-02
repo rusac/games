@@ -29,5 +29,5 @@
 
 <img src="https://github.com/rusac/games/blob/master/The_Legend_of_Zelda_Breath_of_the_Wild.jpg" width="200">
 
-![](https://github.com/rusac/games/blob/master/Horizon_Zero_Dawn.jpg|frame|width=250px|alt=Alt text|Caption text)
+![alttext](https://github.com/rusac/games/blob/master/Horizon_Zero_Dawn.jpg|frame|width=250px|alt=Alt text|Caption text)
 
