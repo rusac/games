@@ -32,3 +32,8 @@
 ![alttext](Horizon_Zero_Dawn.jpg =50x)
 
 ![test image size](/img/post-bg-2015.jpg){:height="50%" width="50%"}
+
+![alt text][logo]
+[logo]: https://github.com/rusac/games/blob/master/Horizon_Zero_Dawn.jpg =50x "Logo Title Text 2"
+
+
