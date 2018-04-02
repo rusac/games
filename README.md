@@ -29,6 +29,6 @@
 
 <img src="https://github.com/rusac/games/blob/master/The_Legend_of_Zelda_Breath_of_the_Wild.jpg" width="200">
 
-![alttext](https://github.com/rusac/games/blob/master/Horizon_Zero_Dawn.jpg){width="250px"}
+![alttext](Horizon_Zero_Dawn.jpg){width="250px"}
 
 ![test image size](/img/post-bg-2015.jpg){:height="50%" width="50%"}
