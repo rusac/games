@@ -5,6 +5,8 @@
 
 ### Game Developer Videos
 
+- [Classic Game Postmortem: Fallout](https://www.youtube.com/watch?v=T2OxO-4YLRk)
+
 
 
 - [Horizon Zero Dawn - A Game Design Post-Mortem](http://www.gdcvault.com/play/1024963/-Horizon-Zero-Dawn-A)
