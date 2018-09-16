@@ -31,6 +31,10 @@
 
 <img src="The_Legend_of_Zelda_Breath_of_the_Wild.jpg" width="200">
 
+### Game Developer Websites
 
+- [Ask a Game Dev](http://askagamedev.tumblr.com/)
+
+- [GamesIndustry.biz](https://www.gamesindustry.biz)
 
 
