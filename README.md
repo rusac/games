@@ -26,6 +26,8 @@
 
 <img src="Nier%20Automata%20small.jpg" width="200">
 
+- [Practical Procedural Generation for Everyone - GDC](https://www.youtube.com/watch?v=WumyfLEa6bU)
+
 - [Warframe Documentary (Part One) - The Story of Digital Extremes ](https://www.youtube.com/watch?v=UOE6528pwFc)
 - [Warframe Documentary (Part Two) - The Story of Warframe ](https://www.youtube.com/watch?v=NA5vT1LooXk)
 
