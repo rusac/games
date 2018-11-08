@@ -11,6 +11,8 @@
 
 - [GOG: Preserving Gaming's Past & Future](https://www.youtube.com/watch?v=ffngZOB1U2A)
 
+- [The Making Of Hollow Knight](https://www.gameinformer.com/2018/10/15/the-making-of-hollow-knight)
+
 - [Horizon Zero Dawn - A Game Design Post-Mortem](http://www.gdcvault.com/play/1024963/-Horizon-Zero-Dawn-A)
 - [Horizon Zero Dawn Documentary - Noclip](https://www.youtube.com/watch?v=h9tLcD1r-6w)
 
