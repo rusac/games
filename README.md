@@ -5,6 +5,8 @@
 
 ### Game Developer Videos
 
+- [Bethesda - History of Bethesda Game Studios](https://www.youtube.com/watch?v=QKn9yiLVlMM)
+
 - [Classic Game Postmortem: Fallout](https://www.youtube.com/watch?v=T2OxO-4YLRk)
 
 <img src="Fallout1.jpeg" width="200">
