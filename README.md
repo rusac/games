@@ -33,6 +33,8 @@
 
 <img src="Nier%20Automata%20small.jpg" width="200">
 
+- [Path of Exile - Designing Path of Exile to be Played Forever](https://www.gdcvault.com/play/1025784/Designing-Path-of-Exile-to)
+
 - [Practical Procedural Generation for Everyone - GDC](https://www.youtube.com/watch?v=WumyfLEa6bU)
 
 - [Warframe Documentary (Part One) - The Story of Digital Extremes ](https://www.youtube.com/watch?v=UOE6528pwFc)
