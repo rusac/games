@@ -23,6 +23,8 @@
 
 - [How to Survive in Gamedev for Eleven Years Without a Hit](https://www.youtube.com/watch?v=JmwbYl6f11c)
 
+- ['Into the Breach' Design Postmortem](https://www.gdcvault.com/browse/gdc-19/play/1025772)
+
 - [Monster Hunter World Post-mortem - Concept Design through Prototyping and Iteration](http://www.gdcvault.com/play/1024981/-Monster-Hunter-World-Postmortem)
 
 <img src="Monster_Hunter_World_cover_art.jpg" width="200">
