@@ -32,6 +32,7 @@
 - [Motion Matching, The Future of Games Animation... Today - GDC 2016](https://www.youtube.com/watch?v=KSTn3ePDt50)
 
 - [Nier Automata - Design and Freedom](https://www.gdcvault.com/play/1024894/A-Fun-Time-in-Which)
+- [How NieR: Automata Tells the Ultimate Humanist Fable](https://www.youtube.com/watch?v=63PzQIbTrM8)
 
 <img src="Nier%20Automata%20small.jpg" width="200">
 
