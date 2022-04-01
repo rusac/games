@@ -13,6 +13,8 @@
 
 - [GOG: Preserving Gaming's Past & Future](https://www.youtube.com/watch?v=ffngZOB1U2A)
 
+- [Hades - No Clip 6-part documentary](https://www.youtube.com/watch?v=JzyE9hi912c&list=PL-THgg8QnvU4JEVov1tMlFThNYS92F8uC)
+
 - [The Making Of Hollow Knight](https://www.gameinformer.com/2018/10/15/the-making-of-hollow-knight)
 - [Hollow Knight - How to design a great metroidvania map](https://www.pcgamer.com/how-to-design-a-great-metroidvania-map/)
 
