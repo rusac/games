@@ -59,4 +59,9 @@
 
 - [GamesIndustry.biz](https://www.gamesindustry.biz)
 
+### Music
 
+- [BBC Radio3 - Sound of Gaming](https://www.bbc.co.uk/programmes/m0009rfp)
+- [Fire Emblem Gaiden (NES OST)](https://www.youtube.com/watch?v=Bkh3mx-b6h4&list=PLEOQ0YA_1DWmr3X-yG2-bjUjJs8f_ODau)
+- [Fire Emblem Gaiden (NES OST) - Player's turn Celica](https://www.youtube.com/watch?v=OtlTenivqa4)
+- [Zelda II The Adventure of Link Music: Palace Theme](https://www.youtube.com/watch?v=7a7Sh82Mzdc)
