@@ -53,6 +53,13 @@
 
 <img src="The_Legend_of_Zelda_Breath_of_the_Wild.jpg" width="200">
 
+- [Ask the Developer Vol. 6, Xenoblade Chronicles 3–Part 1](https://www.nintendo.com/whatsnew/ask-the-developer-vol-6-xenoblade-chronicles-3-part-1/)
+
+- [Ask the Developer Vol. 6, Xenoblade Chronicles 3–Part 2](https://www.nintendo.com/whatsnew/ask-the-developer-vol-6-xenoblade-chronicles-3-part-2/)
+
+- [Ask the Developer Vol. 6, Xenoblade Chronicles 3–Part 3](https://www.nintendo.com/whatsnew/ask-the-developer-vol-6-xenoblade-chronicles-3-part-3/)
+
+
 ### Game Developer Websites
 
 - [Ask a Game Dev](http://askagamedev.tumblr.com/)
